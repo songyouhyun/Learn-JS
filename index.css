@@ -6,8 +6,7 @@ h1{
 }
 
 body{
-    background-color: #ecf0f1;
-    transition: color 0.5s ease-in-out;
+    color: #34495e;
 }
 
 .clicked{
